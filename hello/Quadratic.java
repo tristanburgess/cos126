@@ -8,6 +8,5 @@ public class Quadratic {
 
         System.out.println((-b + d) / 2.0);
         System.out.println((-b - d) / 2.0);
-        ]''
     }
 }
