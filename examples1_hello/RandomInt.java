@@ -1,3 +1,5 @@
+package examples1_hello;
+
 public class RandomInt {
     public static void main(String[] args) {
         int n = Integer.parseInt(args[0]);

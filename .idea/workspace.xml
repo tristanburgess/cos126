@@ -20,8 +20,15 @@
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
-  <component name="ProjectId" id="1fY4Qc5QfqnBLbuVXvlzJcIaSXA" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="106" />
+    <option name="y" value="23" />
+    <option name="width" value="938" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectId" id="1fY8GPeN0qk1Da4OGWcDcPXqQTD" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -39,27 +46,38 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
-  <component name="RunManager" selected="Application.NextYear">
-    <configuration name="NameAge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.examples1_hello.Ruler">
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NameAge" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="NameAge" />
       <module name="COS 126" />
-      <option name="PROGRAM_PARAMETERS" value="Tristan 27" />
+      <option name="PROGRAM_PARAMETERS" value="Alice 19" />
       <method v="2" />
     </configuration>
     <configuration name="NextYear" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="NextYear" />
       <module name="COS 126" />
-      <option name="PROGRAM_PARAMETERS" value="FatherTime asdf" />
+      <option name="PROGRAM_PARAMETERS" value="asdf" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.NameAge" />
-      </list>
-    </recent_temporary>
+    <configuration name="examples1_hello.Ruler" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="examples1_hello.Ruler" />
+      <module name="COS 126" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept1_command_line.NextYear" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept1_command_line.NextYear" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="1234" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -71,21 +89,25 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1718" height="417" key="GridCell.Tab.0.bottom" timestamp="1596382135712">
+    <state x="2363" y="594" width="433" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596383845491">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="417" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596382135712" />
-    <state width="1718" height="417" key="GridCell.Tab.0.center" timestamp="1596382135712">
+    <state x="2363" y="594" width="433" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596383845491" />
+    <state width="1718" height="414" key="GridCell.Tab.0.bottom" timestamp="1596384110087">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="417" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596382135712" />
-    <state width="1718" height="417" key="GridCell.Tab.0.left" timestamp="1596382135711">
+    <state width="1718" height="414" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110087" />
+    <state width="1718" height="414" key="GridCell.Tab.0.center" timestamp="1596384110087">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="417" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596382135711" />
-    <state width="1718" height="417" key="GridCell.Tab.0.right" timestamp="1596382135712">
+    <state width="1718" height="414" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110087" />
+    <state width="1718" height="414" key="GridCell.Tab.0.left" timestamp="1596384110086">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="417" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596382135712" />
+    <state width="1718" height="414" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110086" />
+    <state width="1718" height="414" key="GridCell.Tab.0.right" timestamp="1596384110087">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="1718" height="414" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110087" />
   </component>
 </project>

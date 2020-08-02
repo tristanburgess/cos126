@@ -1,3 +1,5 @@
+package precept1_command_line;
+
 /* This program reads two command-line arguments and prints both out
  * in a sentence. By doing this exercise you will learn the difference
  * between print() and println().

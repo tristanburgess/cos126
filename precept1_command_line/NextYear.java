@@ -1,3 +1,5 @@
+package precept1_command_line;
+
 /* This program takes two command-line arguments, a name and
  * an age. It prints how old that person will be next year. By
  * doing this exercise, you will learn the difference between +

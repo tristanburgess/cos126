@@ -1,3 +1,5 @@
+package precept1_command_line;
+
 // By tradition, this is everyone's first program.
 
 public class HelloWorld {
