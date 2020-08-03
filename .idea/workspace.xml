@@ -15,18 +15,16 @@
     <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
   </component>
   <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
     <option name="SCHEME" value="Project" />
   </component>
   <component name="FindBugs-IDEA-Workspace">
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
-    <toolWindowEditorPreview>false</toolWindowEditorPreview>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="23" />
-    <option name="width" value="938" />
-    <option name="height" value="765" />
   </component>
   <component name="ProjectId" id="1fY8GPeN0qk1Da4OGWcDcPXqQTD" />
   <component name="ProjectViewState">
@@ -44,9 +42,20 @@
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
-  <component name="RunManager" selected="Application.examples1_hello.Ruler">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="assignment1_hello" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\dev\code\cos126" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.precept2_data_types.Quadratic">
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="COS 126" />
@@ -67,8 +76,32 @@
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
+    <configuration name="assignment1_hello.GreatCircle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment1_hello.GreatCircle" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="48.87 -2.33 40.35 74.65 " />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment1_hello.HiFour" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment1_hello.HiFour" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="Alice Bob Carol Dave" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment1_hello.Ordered" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment1_hello.Ordered" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="11 10 12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment1_hello.RBGtoCMYK" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="assignment1_hello.RBGtoCMYK" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="255 143 0" />
+      <method v="2" />
+    </configuration>
     <configuration name="examples1_hello.Ruler" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="examples1_hello.Ruler" />
+      <option name="MAIN_CLASS_NAME" value="examples_reading_1_2.Ruler" />
       <module name="COS 126" />
       <method v="2" />
     </configuration>
@@ -76,6 +109,48 @@
       <option name="MAIN_CLASS_NAME" value="precept1_command_line.NextYear" />
       <module name="COS 126" />
       <option name="PROGRAM_PARAMETERS" value="1234" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.Distance" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.Distance" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="3 4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.Eggsactly" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.Eggsactly" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="35" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.PercentScore" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.PercentScore" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="8 10 15 17" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.PizzaCalculator" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.PizzaCalculator" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.Quadratic" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.Quadratic" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="10 14" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.ThreeSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.ThreeSort" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="8 2 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="precept2_data_types.WindChill" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="precept2_data_types.WindChill" />
+      <module name="COS 126" />
+      <option name="PROGRAM_PARAMETERS" value="-10 40" />
       <method v="2" />
     </configuration>
   </component>
@@ -93,21 +168,25 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="2363" y="594" width="433" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596383845491" />
-    <state width="1718" height="414" key="GridCell.Tab.0.bottom" timestamp="1596384110087">
+    <state width="1718" height="415" key="GridCell.Tab.0.bottom" timestamp="1596417005392">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="414" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110087" />
-    <state width="1718" height="414" key="GridCell.Tab.0.center" timestamp="1596384110087">
+    <state width="1718" height="415" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596417005392" />
+    <state width="1718" height="415" key="GridCell.Tab.0.center" timestamp="1596417005392">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="414" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110087" />
-    <state width="1718" height="414" key="GridCell.Tab.0.left" timestamp="1596384110086">
+    <state width="1718" height="415" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596417005392" />
+    <state width="1718" height="415" key="GridCell.Tab.0.left" timestamp="1596417005392">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="414" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110086" />
-    <state width="1718" height="414" key="GridCell.Tab.0.right" timestamp="1596384110087">
+    <state width="1718" height="415" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596417005392" />
+    <state width="1718" height="415" key="GridCell.Tab.0.right" timestamp="1596417005392">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state width="1718" height="414" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596384110087" />
+    <state width="1718" height="415" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596417005392" />
+    <state x="2081" y="348" key="SettingsEditor" timestamp="1596409285720">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2081" y="348" key="SettingsEditor/-1920.0.1920.1040/0.0.3440.1400@0.0.3440.1400" timestamp="1596409285720" />
   </component>
 </project>

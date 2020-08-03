@@ -1,4 +1,4 @@
-package examples1_hello;
+package examples_reading_1_2;
 
 class IntOps {
     public static void main(String[] args) {

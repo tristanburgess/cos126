@@ -1,4 +1,4 @@
-package examples1_hello;
+package examples_reading_1_2;
 
 public class RandomInt {
     public static void main(String[] args) {

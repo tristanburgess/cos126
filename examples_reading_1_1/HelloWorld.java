@@ -1,4 +1,4 @@
-package examples1_hello;
+package examples_reading_1_1;
 
 public class HelloWorld {
     public static void main(String[] args) {
