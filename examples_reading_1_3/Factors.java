@@ -1,6 +1,6 @@
 package examples_reading_1_3;
 
-public class Factor {
+public class Factors {
     public static void main(String[] args) {
         if (args.length != 1) {
             throw new IllegalArgumentException(
@@ -18,7 +18,7 @@ public class Factor {
         if (n > 1) {
             System.out.print(n);
         }
-        
+
         System.out.println();
     }
 }
