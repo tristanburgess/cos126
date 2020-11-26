@@ -2,6 +2,10 @@ package exercises_1_2;
 
 public class Ex_15_TriangleTest {
     public static void main(String[] args) {
+        if (args.length != 3) {
+            throw new IllegalArgumentException(
+                    "Expected exactly three input args parseable as ints.");
+        }
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);
         int c = Integer.parseInt(args[2]);
